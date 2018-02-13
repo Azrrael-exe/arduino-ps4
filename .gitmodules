@@ -1,0 +1,3 @@
+[submodule "lib/ard-llp"]
+	path = lib/ard-llp
+	url = https://github.com/Azrrael-exe/ard-llp
